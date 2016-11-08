@@ -1,5 +1,15 @@
 ## VM Environment Setup
 
+- [Add Hadoop User and Groups](#add-hadoop-user-and-groups)
+
+- [Install and config JDK](#install-and-config-jdk)
+
+- [Install and config Scala](#install-and-config-scala)
+
+- [Configure SSH logon without password](#configure-ssh-logon-without-password)
+
+- [Show [user@hostname ~]  when su user](#show-userhostname---when-su-user)
+
 ### Add Hadoop User and Groups
 
 Execute the following commands
