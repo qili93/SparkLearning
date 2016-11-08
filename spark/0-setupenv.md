@@ -1,7 +1,3 @@
-# VM Environment Setup
-
-[TOC]
-
 ## VM Environment Setup
 
 ### Add Hadoop User and Groups
